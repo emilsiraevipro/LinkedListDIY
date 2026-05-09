@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u042D\u043C\u0438\u043B\u044C\\Desktop\\DataStructures\\LinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED00276B-4AAA-87C2-835F-5A8168FCCB5A}|LinkedList\\LinkedListDIY.csproj|c:\\users\\\u044D\u043C\u0438\u043B\u044C\\desktop\\datastructures\\linkedlist\\linkedlist\\model\\linkedlistdoit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED00276B-4AAA-87C2-835F-5A8168FCCB5A}|LinkedList\\LinkedListDIY.csproj|solutionrelative:linkedlist\\model\\linkedlistdoit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED00276B-4AAA-87C2-835F-5A8168FCCB5A}|LinkedList\\LinkedListDIY.csproj|c:\\users\\\u044D\u043C\u0438\u043B\u044C\\desktop\\datastructures\\linkedlist\\linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED00276B-4AAA-87C2-835F-5A8168FCCB5A}|LinkedList\\LinkedListDIY.csproj|solutionrelative:linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED00276B-4AAA-87C2-835F-5A8168FCCB5A}|LinkedList\\LinkedListDIY.csproj|c:\\users\\\u044D\u043C\u0438\u043B\u044C\\desktop\\datastructures\\linkedlist\\linkedlist\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED00276B-4AAA-87C2-835F-5A8168FCCB5A}|LinkedList\\LinkedListDIY.csproj|solutionrelative:linkedlist\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043C\u0438\u043B\u044C\\Desktop\\DataStructures\\LinkedList\\LinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "LinkedList\\Program.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043C\u0438\u043B\u044C\\Desktop\\DataStructures\\LinkedList\\LinkedList\\Program.cs",
+              "RelativeToolTip": "LinkedList\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T20:51:30.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinkedListDOIT.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043C\u0438\u043B\u044C\\Desktop\\DataStructures\\LinkedList\\LinkedList\\Model\\LinkedListDOIT.cs",
+              "RelativeDocumentMoniker": "LinkedList\\Model\\LinkedListDOIT.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043C\u0438\u043B\u044C\\Desktop\\DataStructures\\LinkedList\\LinkedList\\Model\\LinkedListDOIT.cs",
+              "RelativeToolTip": "LinkedList\\Model\\LinkedListDOIT.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAYwHQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T20:37:45.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043C\u0438\u043B\u044C\\Desktop\\DataStructures\\LinkedList\\LinkedList\\Model\\Item.cs",
+              "RelativeDocumentMoniker": "LinkedList\\Model\\Item.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043C\u0438\u043B\u044C\\Desktop\\DataStructures\\LinkedList\\LinkedList\\Model\\Item.cs",
+              "RelativeToolTip": "LinkedList\\Model\\Item.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T20:20:55.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

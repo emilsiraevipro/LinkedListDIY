@@ -1,0 +1,14 @@
+C:\Users\Эмиль\Desktop\DataStructures\LinkedList\LinkedList\bin\Debug\net10.0\LinkedListDIY.exe
+C:\Users\Эмиль\Desktop\DataStructures\LinkedList\LinkedList\bin\Debug\net10.0\LinkedListDIY.deps.json
+C:\Users\Эмиль\Desktop\DataStructures\LinkedList\LinkedList\bin\Debug\net10.0\LinkedListDIY.runtimeconfig.json
+C:\Users\Эмиль\Desktop\DataStructures\LinkedList\LinkedList\bin\Debug\net10.0\LinkedListDIY.dll
+C:\Users\Эмиль\Desktop\DataStructures\LinkedList\LinkedList\bin\Debug\net10.0\LinkedListDIY.pdb
+C:\Users\Эмиль\Desktop\DataStructures\LinkedList\LinkedList\obj\Debug\net10.0\LinkedListDIY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эмиль\Desktop\DataStructures\LinkedList\LinkedList\obj\Debug\net10.0\LinkedListDIY.AssemblyInfoInputs.cache
+C:\Users\Эмиль\Desktop\DataStructures\LinkedList\LinkedList\obj\Debug\net10.0\LinkedListDIY.AssemblyInfo.cs
+C:\Users\Эмиль\Desktop\DataStructures\LinkedList\LinkedList\obj\Debug\net10.0\LinkedListDIY.csproj.CoreCompileInputs.cache
+C:\Users\Эмиль\Desktop\DataStructures\LinkedList\LinkedList\obj\Debug\net10.0\LinkedListDIY.dll
+C:\Users\Эмиль\Desktop\DataStructures\LinkedList\LinkedList\obj\Debug\net10.0\refint\LinkedListDIY.dll
+C:\Users\Эмиль\Desktop\DataStructures\LinkedList\LinkedList\obj\Debug\net10.0\LinkedListDIY.pdb
+C:\Users\Эмиль\Desktop\DataStructures\LinkedList\LinkedList\obj\Debug\net10.0\LinkedListDIY.genruntimeconfig.cache
+C:\Users\Эмиль\Desktop\DataStructures\LinkedList\LinkedList\obj\Debug\net10.0\ref\LinkedListDIY.dll
