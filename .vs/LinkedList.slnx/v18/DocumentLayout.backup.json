@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\\u042D\u043C\u0438\u043B\u044C\\Desktop\\DataStructures\\LinkedListDIY\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED00276B-4AAA-87C2-835F-5A8168FCCB5A}|LinkedList\\LinkedListDIY.csproj|c:\\users\\\u044D\u043C\u0438\u043B\u044C\\desktop\\datastructures\\linkedlistdiy\\linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED00276B-4AAA-87C2-835F-5A8168FCCB5A}|LinkedList\\LinkedListDIY.csproj|solutionrelative:linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED00276B-4AAA-87C2-835F-5A8168FCCB5A}|LinkedList\\LinkedListDIY.csproj|c:\\users\\\u044D\u043C\u0438\u043B\u044C\\desktop\\datastructures\\linkedlistdiy\\linkedlist\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED00276B-4AAA-87C2-835F-5A8168FCCB5A}|LinkedList\\LinkedListDIY.csproj|solutionrelative:linkedlist\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED00276B-4AAA-87C2-835F-5A8168FCCB5A}|LinkedList\\LinkedListDIY.csproj|c:\\users\\\u044D\u043C\u0438\u043B\u044C\\desktop\\datastructures\\linkedlistdiy\\linkedlist\\model\\linkedlistdoit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED00276B-4AAA-87C2-835F-5A8168FCCB5A}|LinkedList\\LinkedListDIY.csproj|solutionrelative:linkedlist\\model\\linkedlistdoit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED00276B-4AAA-87C2-835F-5A8168FCCB5A}|LinkedList\\LinkedListDIY.csproj|c:\\users\\\u044D\u043C\u0438\u043B\u044C\\desktop\\datastructures\\linkedlistdiy\\linkedlist\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED00276B-4AAA-87C2-835F-5A8168FCCB5A}|LinkedList\\LinkedListDIY.csproj|solutionrelative:linkedlist\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED00276B-4AAA-87C2-835F-5A8168FCCB5A}|LinkedList\\LinkedListDIY.csproj|c:\\users\\\u044D\u043C\u0438\u043B\u044C\\desktop\\datastructures\\linkedlistdiy\\linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED00276B-4AAA-87C2-835F-5A8168FCCB5A}|LinkedList\\LinkedListDIY.csproj|solutionrelative:linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 247,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +30,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u042D\u043C\u0438\u043B\u044C\\Desktop\\DataStructures\\LinkedListDIY\\LinkedList\\Program.cs",
               "RelativeDocumentMoniker": "LinkedList\\Program.cs",
-              "ToolTip": "C:\\Users\\\u042D\u043C\u0438\u043B\u044C\\Desktop\\DataStructures\\LinkedListDIY\\LinkedList\\Program.cs*",
-              "RelativeToolTip": "LinkedList\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u042D\u043C\u0438\u043B\u044C\\Desktop\\DataStructures\\LinkedListDIY\\LinkedList\\Program.cs",
+              "RelativeToolTip": "LinkedList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T20:51:30.193Z",
               "EditorCaption": ""
@@ -49,20 +49,20 @@
               "RelativeDocumentMoniker": "LinkedList\\Model\\LinkedListDOIT.cs",
               "ToolTip": "C:\\Users\\\u042D\u043C\u0438\u043B\u044C\\Desktop\\DataStructures\\LinkedListDIY\\LinkedList\\Model\\LinkedListDOIT.cs",
               "RelativeToolTip": "LinkedList\\Model\\LinkedListDOIT.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T20:37:45.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\\u042D\u043C\u0438\u043B\u044C\\Desktop\\DataStructures\\LinkedListDIY\\LinkedList\\Model\\Item.cs",
               "RelativeDocumentMoniker": "LinkedList\\Model\\Item.cs",
               "ToolTip": "C:\\Users\\\u042D\u043C\u0438\u043B\u044C\\Desktop\\DataStructures\\LinkedListDIY\\LinkedList\\Model\\Item.cs",
               "RelativeToolTip": "LinkedList\\Model\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T20:20:55.642Z",
               "EditorCaption": ""
