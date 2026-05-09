@@ -1,5 +1,4 @@
-﻿
-using LinkedList.Model;
+﻿using LinkedList.Model;
 
 namespace LinkedListDIY
 {
@@ -7,37 +6,24 @@ namespace LinkedListDIY
     {
         static void Main(string[] args)
         {
-            var linkedList = new LinkedListDOIT<int>();
-            linkedList.Add(1);
-            linkedList.Add(2);
-            linkedList.Add(3);
-            linkedList.Add(4);
-            linkedList.Add(5);
-            foreach (var i in linkedList)
+            var list = new LinkedListDOIT<int>();
+            list.Add(1);
+            list.Add(5);
+            foreach (var item in list)
             {
-                Console.Write(i + " ");
+                Console.Write(item + " ");
             }
-            //linkedList.Delete(1);
             Console.WriteLine();
-            Console.WriteLine(linkedList.Head);
-            Console.WriteLine(linkedList.Head.Next);
-            Console.WriteLine(linkedList.Tail);
-            Console.WriteLine(linkedList.Tail.Next);
-            linkedList.Delete(5);
-            linkedList.Delete(2);
-            linkedList.Delete(7);
-            //linkedList.Delete(7);
-            //linkedList.Delete(7);
-            linkedList.Delete(5);
-            linkedList.Delete(2);
-            linkedList.Delete(7);
-            foreach (var i in linkedList)
+
+            list.InsertAfter(1, 2);
+            list.InsertAfter(1, 2);
+            list.InsertAfter(1, 2);
+            list.InsertAfter(1, 2);
+
+            foreach (var item in list)
             {
-                Console.Write(i + " ");
+                Console.Write(item + " ");
             }
-            //for (int i = 0; i < linkedList.Count; i++)
-            //{
-            //}
         }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinkedListDIY")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f54437ebfcabc77e72a30fb0c07e8a5f0b328b4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinkedListDIY")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinkedListDIY")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

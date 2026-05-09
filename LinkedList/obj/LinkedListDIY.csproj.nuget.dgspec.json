@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Эмиль\\Desktop\\DataStructures\\LinkedList\\LinkedList\\LinkedListDIY.csproj": {}
+    "C:\\Users\\Эмиль\\Desktop\\DataStructures\\LinkedListDIY\\LinkedList\\LinkedListDIY.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Эмиль\\Desktop\\DataStructures\\LinkedList\\LinkedList\\LinkedListDIY.csproj": {
+    "C:\\Users\\Эмиль\\Desktop\\DataStructures\\LinkedListDIY\\LinkedList\\LinkedListDIY.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Эмиль\\Desktop\\DataStructures\\LinkedList\\LinkedList\\LinkedListDIY.csproj",
+        "projectUniqueName": "C:\\Users\\Эмиль\\Desktop\\DataStructures\\LinkedListDIY\\LinkedList\\LinkedListDIY.csproj",
         "projectName": "LinkedListDIY",
-        "projectPath": "C:\\Users\\Эмиль\\Desktop\\DataStructures\\LinkedList\\LinkedList\\LinkedListDIY.csproj",
+        "projectPath": "C:\\Users\\Эмиль\\Desktop\\DataStructures\\LinkedListDIY\\LinkedList\\LinkedListDIY.csproj",
         "packagesPath": "C:\\Users\\Эмиль\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Эмиль\\Desktop\\DataStructures\\LinkedList\\LinkedList\\obj\\",
+        "outputPath": "C:\\Users\\Эмиль\\Desktop\\DataStructures\\LinkedListDIY\\LinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

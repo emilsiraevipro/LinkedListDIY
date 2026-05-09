@@ -27,10 +27,9 @@ namespace LinkedList.Model
         /// </summary>
         public LinkedListDOIT()
         {
-            Head = null;
-            Tail = null;
-            Count = 0;
+            Clear();
         }
+
         /// <summary>
         /// create list with data
         /// </summary>
@@ -39,6 +38,32 @@ namespace LinkedList.Model
         {
             SetHeadAndTail(data);
         }
+        public void InsertAfter(T target, T data)
+        {
+            if (Head != null)
+            {
+                var current = Head;
+                while(current != null)
+                if (current.Data.Equals(target))
+                {
+                    var item = new Item<T>(data);
+                    item.Next = current.Next;
+                    current.Next = item;
+                    Count++;
+                    return;
+                }
+                else
+                {
+                    current = current.Next;
+                }
+            }
+            else
+            {
+                //Нужно для себя решить, если список пустой
+                //то либо не добавлять ничего, либо вставить данные
+            }
+        }
+        
         /// <summary>
         /// add data to end of list
         /// </summary>
@@ -92,6 +117,40 @@ namespace LinkedList.Model
                     Tail = previous;
                 }
             }
+            else
+            {
+                SetHeadAndTail(data);
+            }
+        }
+        /// <summary>
+        /// Add Head
+        /// </summary>
+        /// <param name="data"></param>
+        public void AppendHead(T data)
+        {
+            var item = new Item<T>(data)
+            {
+                Next = Head
+            };
+            Head = item;
+            Count++;
+            //if (Head != null)
+            //{ 
+            //    Head.Next = Head;
+            //    Head.Data = data;
+            //    return;
+            //} Head = new Item<T>(data); return;
+
+
+        }
+        /// <summary>
+        /// clear linkedlist
+        /// </summary>
+        public void Clear()
+        {
+            Head = null;
+            Tail = null;
+            Count = 0;
         }
         private void SetHeadAndTail(T data)
         {
